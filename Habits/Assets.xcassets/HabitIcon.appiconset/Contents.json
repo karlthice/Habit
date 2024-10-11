@@ -1,0 +1,14 @@
+{
+  "images" : [
+    {
+      "filename" : "DALL·E 2024-10-07 21.04.29 - A simple cartoon drawing of a man with a gearwheel inside his head. The man has a friendly, neutral expression with minimal detail. The gearwheel is v.png",
+      "idiom" : "universal",
+      "platform" : "ios",
+      "size" : "1024x1024"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
